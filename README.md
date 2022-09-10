@@ -8,6 +8,7 @@ I have learned so much about frontend web development now I am gone for backend 
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [dksisodia002@gmail.com](mailto:dksisodia002@gmail.com)
+*   🦸  GDSC Member 
 *   🧠  I'm learning Full-Stack Web-Development
 *   ⚡  A Fan of Marvel DC is Black Ink
 ### Skills
