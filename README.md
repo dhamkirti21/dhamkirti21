@@ -4,7 +4,7 @@ Hi 👋 My name is Dhamkirti Sisodia
 I am Web Developer , Web Designer
 ---------------------------------
 
-I have learned so much about frontend web development now I am gone for backend development I Love Designing Logos ,Websites. Making Presentation New and Intuitive.
+I have knowledge regarding frontend web development & now I am going for backend development. I Love Designing Logos, Websites, Creating & Delivering Presentation Attractive and Intuitive.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [dksisodia002@gmail.com](mailto:dksisodia002@gmail.com)
