@@ -1,7 +1,7 @@
 Hi 👋 My name is Dhamkirti Sisodia
 ==================================
 
-I am Web Developer , Web Designer
+I am Web Developer , Web Designer and Tech Enthusiast
 ---------------------------------
 
 I have knowledge regarding frontend web development & now I am going for backend development. I Love Designing Logos, Websites, Creating & Delivering Presentation Attractive and Intuitive.
