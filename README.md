@@ -1,5 +1,6 @@
 
-![White Minimalist Profile LinkedIn Banner](https://github.com/dhamkirti21/dhamkirti21/assets/78336507/b49fb41c-98ea-4be8-84c6-1ed6cdcc4c3c)
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/00235f37-31a3-4d03-995f-ba6ba9f352f2)
+
 
 ## 💫 About Me:
 👋 Hi there! I'm a versatile professional experienced in MERN full stack development and UI/UX design.<br>✨ I bring a unique blend of technical skills and creative vision to the table.<br>🔨 Proficient in backend and frontend technologies, I excel at building robust web applications.<br>💻 My expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js).<br>🎨 I have a keen eye for UI/UX design and crafting captivating user interfaces.<br>💡 I am skilled in wireframing, prototyping, and creating intuitive user flows.<br>🌟 My goal is to deliver exceptional user experiences and drive business success.<br>🌐 Let's collaborate on innovative projects that leave a lasting impact!
